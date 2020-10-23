@@ -1,0 +1,22 @@
+.footerBox{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.footerIcono{
+
+    margin: 5px 20px;
+}
+
+.footerText{
+    margin: 100px;
+    color: black;
+    font-weight: 200;
+    font-size: 30px;
+}
+
+.footerCopyright{
+    color: black;
+    font-size: 20px;
+}
