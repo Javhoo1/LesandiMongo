@@ -1,12 +1,8 @@
 # Flask + ReactJS + MongoDB Login and Registration
 
-![ReactJS Todo](../screenshots/react-login1.PNG)
-#
-![ReactJS Todo](../screenshots/react-login2.PNG)
-#
-![ReactJS Todo](../screenshots/react-login3.PNG)
-
-
 ## Setup
 
-Manually clone the repo and then run `npm install`.
+1. Clonar
+2. Abrir terminal
+3. Ejecutar npm install
+4. Ejecutar pip install flask
